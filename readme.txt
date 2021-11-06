@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git isn free software.
+Git is free software.
 
 i am on master branch 
 
