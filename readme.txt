@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software under the GPL.
+Git is free software under the GPL and is easy to use.
 
 i am on master branch 
 
